@@ -8,7 +8,7 @@ https://blog.csdn.net/weixin_43619065/article/details/105015760
 then, wsl2 is known as Host-IP varies every time one terminal is opened, if you wannt to set  /etc/proxychains4.conf with auto-script please refer to 
 https://zhuanlan.zhihu.com/p/163060687
 
-## nvm cmd was interrupt when using Proxychains to  accelerate nodejs installation
+## nvm cmd was interrupted when using Proxychains to  accelerate nodejs installation
 https://github.com/rofl0r/proxychains-ng/issues/115
 
 
